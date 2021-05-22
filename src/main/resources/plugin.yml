@@ -1,0 +1,12 @@
+name: JustDsBot
+main: locb.jp.justdsbot.JustDsBot
+version: "1.0"
+
+commands:
+  reward:
+    description: JustDsBot use
+    permission: justdsbot.use
+
+permissions:
+  justdsbot*:
+    default: op
